@@ -3,7 +3,7 @@
 ## Summary
 This Matlab program implements a numerical 2D trajectory model for air launch to
 orbit systems. Default values are for Orbital ATK's Pegasus XL mission to a 741 km circular polar orbit with 221 kg payload. 
-missions.
+
 
 ## Note on Units
 All input values should be in SI. Computations are also carried out in SI, however the plots are converted to km instead of m due to the large distances involved.
